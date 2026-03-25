@@ -95,6 +95,10 @@ Kno is built as **six independent microservices**, each handling a distinct stag
 
 ---
 
+## Hackathon Demo Video
+https://github.com/user-attachments/assets/f933b484-f3ed-4c04-8daf-27a13e5fa2e2
+
+
 ## Getting Started
 
 ### Prerequisites
